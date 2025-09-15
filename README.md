@@ -9,7 +9,7 @@ Firewall lab instructions part 1 v3.pdf – Official lab instructions (Part 1).
 
 Firewall lab instructions part 2.pdf – Official lab instructions (Part 2).
 
-Lab assignments.docx – My completed solution with step-by-step configurations, firewall rules, Snort rules, and network diagrams.
+Lab assignments.pdf – My completed solution with step-by-step configurations, firewall rules, Snort rules, and network diagrams.
 
 🛠 Technologies Used
 
