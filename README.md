@@ -1,36 +1,36 @@
-🔥 DTEK8063 Firewall & IPS Technology Lab
+🔥 Firewall & IPS Technology Lab – DTEK8063
 
-This repository comprises the lab assignments I have completed for the DTEK8063 course, which pertain to firewall and IPS technology.
-The Lab assignments.docx Word document contains my detailed solutions, configurations, and screenshots, while the PDFs (Firewall lab instructions Part 1 & 2) provide the original lab scenarios and requirements.
+This repository contains my completed Firewall and IPS Technology lab assignments for the DTEK8063 course.
+There was a lab scenarios and requirements and based on the lab instruction I have completed the lab and prepared a final report with detailed solutions, configurations, and screenshots.
 
-Contents
+📄 Contents
 
-Official lab instructions (Part 1): V3.pdf - Firewall lab instructions.
+Firewall lab instructions part 1 v3.pdf – Official lab instructions (Part 1).
 
-Part 2 of the official lab instructions for the firewall lab is available in PDF format.
+Firewall lab instructions part 2.pdf – Official lab instructions (Part 2).
 
-Lab assignments.docx – My final solution, which includes network diagrams, Snort rules, firewall rules, and step-by-step configurations.
+Lab assignments.docx – My completed solution with step-by-step configurations, firewall rules, Snort rules, and network diagrams.
 
-Technologies Employed
+🛠 Technologies Used
 
-Firewalls: IPFire, pfSense
+Firewalls: pfSense, IPFire
 
-Snort on pfSense: IDS
+IDS: Snort on pfSense
 
-Virtualisation: Oracle VirtualBox 7.1.4
+Virtualization: Oracle VirtualBox 7.1.4
 
-Tools: Kali Linux, Metasploitable, Nmap, and Metasploit Framework
+Tools: Kali Linux, Metasploitable, Nmap, Metasploit Framework
 
-Highlights
+🚀 Highlights
 
-pfSense and IPFire firewalls have been configured with routing, rules, and port forwarding.
+Configured pfSense and IPFire firewalls with routing, rules, and port forwarding.
 
-Customised Snort IDS rules were implemented to detect exploits, ping sweeps, and port scanning.
+Implemented Snort IDS with custom rules for detecting port scans, ping sweeps, and exploits.
 
-Verified detection through Snort and conducted reconnaissance and exploitation using Nmap and Metasploit.
+Performed reconnaissance and exploitation using Nmap and Metasploit, and verified detection through Snort.
 
-Generated network diagrams and documented step-by-step configurations to ensure reproducibility.
+Created network diagrams and documented step-by-step configurations for reproducibility.
 
-Notes
+📢 Notes
 
-These solutions adhere to the official instructions and exhibit practical skills in the administration of firewalls, network security operations, and intrusion detection systems. Utilise them as a resource for comprehending real-world security configurations and incident management.
+These solutions follow the official instructions and demonstrate practical skills in network security operations, firewall management, and intrusion detection systems. Use them as a reference for understanding real-world security configurations and incident handling.
